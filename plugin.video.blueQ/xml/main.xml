@@ -1,0 +1,34 @@
+<xml>
+  <dir>
+    <title>Movies</title>
+    <link>file://formats/movies.xml</link>
+  </dir>
+
+  <dir>
+    <title>TV Shows</title>
+    <link>file://formats/tv.xml</link>
+  </dir>
+  
+   <dir>
+    <title>Top 250 Movies</title>
+    <link>file://formats/Top 250 IMDB.xml</link>
+    <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/imdb.png</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>Lists</title>
+    <link>file://formats/lists.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+    <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/search.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Search TMDB</title>
+    <tmdb>search</tmdb>
+    <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/search.png</thumbnail>
+</dir>
+</xml>

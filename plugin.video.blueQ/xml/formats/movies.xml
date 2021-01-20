@@ -1,0 +1,61 @@
+<dir>
+  <title>Trending Movies</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+  <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/trakt.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Popular Movies</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
+  <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/trakt.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Movie Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+  <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/trakt.png</thumbnail>
+</dir>
+
+<dir>
+  <title>Movie Collection</title>
+  <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+  <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/trakt.png</thumbnail>
+</dir>
+
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+  <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/tmdb.png</thumbnail>
+</dir>
+
+<dir>
+  <title>TMDB Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+  <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/tmdb.png</thumbnail>
+</dir>
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
+<thumbnail>special://home/addons/plugin.video.blueQ/xml/images/tmdb.png</thumbnail>
+</dir>
+
+<dir>
+  <title>TMDB Western Movies</title>
+  <tmdb>genre/movies/37</tmdb>
+ <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/tmdb.png</thumbnail>
+</dir>
+
+<dir>
+  <title>TMDB Crime Movies</title>
+  <tmdb>genre/movies/80</tmdb>
+ <thumbnail>special://home/addons/plugin.video.blueQ/xml/images/tmdb.png</thumbnail>
+</dir>
+
+<dir>
+  <title>TMDB Star Wars Collection</title>
+  <tmdb>collection/10</tmdb>
+<thumbnail>special://home/addons/plugin.video.blueQ/xml/images/tmdb.png</thumbnail>
+</dir>
+
+
