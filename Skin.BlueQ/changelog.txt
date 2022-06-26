@@ -1,0 +1,101 @@
+[B]0.1.8[/B]
+• New PVR setting added to Skin Settings to allow users to switch from landscape images for TV Recordings on the Home Screen to fanart images. 
+
+[B]0.1.7[/B]
+• New Artwork setting added to Skin Settings to allow users to switch from the default large Movie/TV Show posters on the Home Screen to smaller sized posters. 
+
+[B]0.1.6[/B]
+• Minor Tweak to Music OSD.
+• Layout of Live Radio Channels OSD changed to match the same OSD layout as Live TV Channels.
+
+[B]0.1.5[/B]
+• New radiobutton option added to Skin Settings Window to Enable/Disable clearart above OSD for movies and TV shows.
+• All files in contained media folder compiled into new Texture.xbt file.
+
+[B]0.1.4[/B]
+• New Recommended Songs Widget added to Music Home Screen.
+• Layout tweaks to PlayerPlot.xml file.
+• Layout and Poster tweaks to DialogPVRChannelGuide.xml file.
+• Layout tweaks to DialogSeekBar.xml file.
+• New setting added to OSD Settings to display clearart for Movies and TVshows only.
+
+[B]0.1.3[/B]
+• Duration list item label for PVR windows updated to new variable.
+• Increased new PVR recording icon slightly.
+
+[B]0.1.2[/B]
+• New EPG Layout changes completed.
+• New sidebar options added to PVR windows.
+• Support for New 'Next-UP' dialog for Live TV programmes added (Thanks to Guilouz)
+• Duration info labels corrected to right format.
+
+[B]0.1.1[/B]
+• 3 new skin views added (Flix Large, Flix Wide and Flix Landscape)
+• Position of 'Now Playing' breadcrumb labels changed on TV channels, Recordings and Timer windows.
+• New Layouts for TV Channels Window (PVR+ Big List and PVR+ Now-Next)
+• New Layouts for PVR Recordings and Timer Windows.
+• New options added to Music OSD settings (Disable Discart, Enable Artist Clearlogo, Enable Scrolling Text)....Thanks to Guilouz.
+
+[B]0.1.0[/B]
+• New 'Live' and 'New' LiveTV flags added.
+• Seek-Bar at the top of screen fixed for Live TV.
+• Plot alignment fixed on Player Plot Dialog when Timeshift has been activated.
+• Live TV OSD Button height position adjusted slightly.
+
+[B]0.0.9[/B]
+• When using Local PVR Artwork option, skin will now detect any missing artwork and use the Skin Helper Script to fill the gaps if the SHS option is also enabled in the PVR skin settings.
+• New layout created for the PVR Info Dialog that resembles the the current Video Info Dialog for Movies/TV Shows.
+• Additional New variables added to the variable.xml file.
+
+[B]0.0.8[/B]
+• New background texture added.
+• New OSD layout for Live TV recordings completed.
+• New 4K and My Watchlist widgets added to Movie Home Menu.
+• New additional PVR settings added to EstuaryPVR+ skin settings.
+• Support for local PVR artwork added. Now functional on all Live TV OSD's.
+• Recent Recordings widget on main Live TV home menu now supports local landscape image.
+• More new variables added to variable.xml file.
+• More 'EN' language strings added.
+
+[B]0.0.7[/B]
+• New runtime and endtime flags added.
+• New Premiered flag added.
+• New Variables added to variable.xml
+• New strings added to English language
+• Text Help Labels updated for Live TV and Video file OSD.
+• Text Help Labels updated for Music OSD.
+• New layout for Music OSD completed.
+• New Artist Biography button and Dialog added to Music OSD.
+• New Custom Artist Biography.xml created.
+• New Actor Button and Dialog on Movie and TV Show OSD completed. (Thanks Guilouz)
+• New Custom ActorList.xml created. (Thanks Guilouz)
+• Support for New OSD flags for Local Library, Netflix, Amazon Prime, iplayer, Youtube and Emby added.
+
+[B]0.0.6[/B]
+• 3 New skin colour themes created (Black, Claret and Cobalt)
+• Show Info code on DialogSeekBar.xml disbaled in favour of new Custom Player Plot/Info Dialog.xml
+• New layout of Live TV OSD Buttons created.
+• New last channel button added to LiveTV OSD
+• New layout for LiveTV OSD Completed.
+• New button layout for video file OSD added.
+• New layout for DialogPlayerProcessInfo.xml created.
+• New layout for VideoOSDBookmarks.xml created.
+• New layout for DialogPVRChannelsOSD.xml created.
+
+[B]0.0.5[/B]
+• Initial Layout changes to OSD panel.
+• Support added for Colourised OSD panel.
+• Media flags updated to colourised files.
+• New Live TV Recording Button.
+
+[B]0.0.4[/B]
+• Added additional media folders and media files to main media folder.
+
+[B]0.0.3[/B]
+• Updated old Estuary xml files, fonts, colours and Media files
+
+[B]0.0.2[/B]
+• Updated addon.xml and changelog files
+
+﻿[B]0.0.1[/B]
+• Initial commit
